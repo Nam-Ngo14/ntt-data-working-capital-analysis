@@ -3,12 +3,18 @@ Independent working-capital and cash-conversion analysis of NTT DATA, including 
 
 
 **NTT DATA Working-Capital Efficiency and Cash-Conversion Analysis**
+
 Research Objective
+
 This project evaluates how efficiently NTT DATA converts its operating activity into cash relative to comparable global IT-services companies. The analysis focuses on identifying where capital is tied up within the operating cycle, whether these patterns represent genuine weaknesses or structural characteristics of the business, and what improving the most significant inefficiency could be worth financially.
+
 The core research question is:
+
 How efficiently does NTT DATA convert its operations and project activity into cash compared with comparable IT-services peers, where are the main working-capital inefficiencies or advantages, and what could improving those areas be worth financially?
+
 To answer this question, the analysis combines historical financial data, working-capital ratios, peer benchmarking and scenario-based opportunity sizing.
 The analysis follows three steps:
+
 Evaluate NTT DATA’s historical working-capital performance.
 Compare NTT DATA with relevant global peers.
 Estimate the financial impact of improving the most important identified weakness.

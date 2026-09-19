@@ -1,8 +1,8 @@
-# ntt-data-working-capital-analysis
+# NTT DATA Working-Capital Efficiency and Cash-Conversion Analysis
+
+
 Independent working-capital and cash-conversion analysis of NTT DATA, including historical analysis, peer benchmarking, DSO opportunity sizing, and financial impact estimation.
 
-
-**NTT DATA Working-Capital Efficiency and Cash-Conversion Analysis**
 
 **Research Objective**
 

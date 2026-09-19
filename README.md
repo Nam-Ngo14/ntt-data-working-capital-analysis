@@ -375,15 +375,9 @@ Under the selected Base scenario:
 
 > **50% peer-gap closure → 11.4-day DSO improvement → 68.7-day resulting DSO**
 
-At normalized FY2025 operating scale, this could potentially release approximately:
+At normalized FY2025 operating scale, this could potentially release approximately ¥152.7bn from Trade Receivables.
 
-# **¥152.7bn**
-
-from Trade Receivables.
-
-If fully used to reduce or avoid interest-bearing financing, the associated annual pre-tax financing benefit could be approximately:
-
-# **¥5.9bn**
+If fully used to reduce or avoid interest-bearing financing, the associated annual pre-tax financing benefit could be approximately ¥5.9bn.
 
 The analysis therefore supports a **targeted focus on Trade Receivable efficiency rather than broad working-capital restructuring**.
 
